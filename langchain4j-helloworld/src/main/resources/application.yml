@@ -1,0 +1,5 @@
+server:
+  port: 9001
+
+alibaba-api-key: ${alibaba_key}
+chatGPT-api: ${chatgpt_key}
