@@ -1,0 +1,70 @@
+# maven ignore
+target/
+*.class
+*.jar
+*.war
+*.zip
+*.tar
+*.tar.gz
+
+# maven plugin ignore
+release.properties
+cobertura.ser
+*.gpg
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+
+# eclipse ignore
+.settings/
+.project
+.classpath
+
+# idea ignore
+.idea/
+!.idea/icon.png
+*.ipr
+*.iml
+*.iws
+
+# NetBeans
+nb-configuration.xml
+
+# Visual Studio Code
+.vscode
+.factorypath
+
+
+# Vim
+*.swp
+*.swo
+
+# patch
+*.orig
+*.rej
+
+# Local environment
+.env
+
+
+# temp ignore
+logs/
+*.log
+*.doc
+*.cache
+*.diff
+*.patch
+*.tmp
+
+# system ignore
+.DS_Store
+Thumbs.db
+
+# antlr ignore
+src/main/antlr4/imports/**/gen/
+/mtk-server/src/main/resources/static/
+
+/.VSCodeCounter/
+server.pid
+/mtk-snapshot-worker/quarkus.log.*
+*.pid
