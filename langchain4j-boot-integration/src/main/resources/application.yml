@@ -1,0 +1,9 @@
+server:
+  port: 9002
+
+langchain4j:
+  open-ai:
+    chat-model:
+      api-key: ${alibaba_key}
+      model-name: qwen-turbo
+      base-url: https://dashscope.aliyuncs.com/compatible-mode/v1

@@ -10,6 +10,9 @@
     <packaging>pom</packaging>
     <modules>
         <module>langchain4j-helloworld</module>
+        <module>langchain4j-boot-integration</module>
+        <module>langchain4j-low-high-api</module>
+        <module>langchain4j-model-parameter</module>
     </modules>
 
     <properties>
