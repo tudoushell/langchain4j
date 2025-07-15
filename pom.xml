@@ -13,6 +13,7 @@
         <module>langchain4j-boot-integration</module>
         <module>langchain4j-low-high-api</module>
         <module>langchain4j-model-parameter</module>
+        <module>langchain4j-chat-image</module>
     </modules>
 
     <properties>

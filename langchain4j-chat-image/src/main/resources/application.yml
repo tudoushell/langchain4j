@@ -1,0 +1,4 @@
+server:
+  port: 9005
+
+alibaba-api-key: ${alibaba_key}
