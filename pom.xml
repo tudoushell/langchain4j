@@ -14,6 +14,7 @@
         <module>langchain4j-low-high-api</module>
         <module>langchain4j-model-parameter</module>
         <module>langchain4j-chat-image</module>
+        <module>langchain4j-streaming-chat</module>
     </modules>
 
     <properties>
