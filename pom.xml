@@ -15,6 +15,9 @@
         <module>langchain4j-model-parameter</module>
         <module>langchain4j-chat-image</module>
         <module>langchain4j-streaming-chat</module>
+        <module>langchain4j-chat-memory</module>
+        <module>langchain4j-prompt</module>
+        <module>langchain4j-chat-persistence</module>
     </modules>
 
     <properties>
