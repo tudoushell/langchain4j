@@ -18,6 +18,7 @@
         <module>langchain4j-chat-memory</module>
         <module>langchain4j-prompt</module>
         <module>langchain4j-chat-persistence</module>
+        <module>langchain4j-tools</module>
     </modules>
 
     <properties>
