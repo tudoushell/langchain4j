@@ -1,0 +1,9 @@
+server:
+  port: 9012
+  servlet:
+    encoding:
+      charset: UTF-8
+      enabled: true
+      force: true
+
+alibaba-api-key: ${alibaba_key}

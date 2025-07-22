@@ -19,6 +19,7 @@
         <module>langchain4j-prompt</module>
         <module>langchain4j-chat-persistence</module>
         <module>langchain4j-tools</module>
+        <module>langchain4j-embedding-store</module>
     </modules>
 
     <properties>
