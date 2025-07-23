@@ -21,7 +21,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/api/embedding-store")
 @RestController
 @RequiredArgsConstructor
-public class embedStoreController {
+public class EmbedStoreController {
 
     private final EmbeddingModel embeddingModel;
 

@@ -20,6 +20,7 @@
         <module>langchain4j-chat-persistence</module>
         <module>langchain4j-tools</module>
         <module>langchain4j-embedding-store</module>
+        <module>langchain4j-chat-rag</module>
     </modules>
 
     <properties>
